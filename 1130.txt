@@ -956,3 +956,5 @@
       0.0001        30.0
       0.0038        30.0
       0.0049        30.0
+
+!Input file of discharge data: Peak dischareg (m3/s - 1st column) and Peak duration (minutes - 2nd column)
